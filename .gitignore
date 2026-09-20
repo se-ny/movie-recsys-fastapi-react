@@ -1,0 +1,12 @@
+# Python (backend)
+.venv/
+__pycache__/
+*.pyc
+backend_fastapi_movie_recsys/.env
+
+# Node (frontend)
+node_modules/
+dist/
+
+# 공통
+.DS_Store
