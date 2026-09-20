@@ -12,7 +12,7 @@ movie-recsys-fastapi-react/
 
 각 폴더의 상세한 설치·실행 방법은 폴더 안의 README를 참고하세요.
 - [backend_fastapi_movie_recsys/README.md](./backend_fastapi_movie_recsys/README.md) — 설치, MySQL 세팅, 실행 명령어, 전체 API 목록
-- (프론트엔드 README는 추후 추가 예정)
+- [frontend_react_movie_recsys/README.md](./frontend_react_movie_recsys/README.md) — 설치, 실행, 화면 구성, 폴더 구조
 
 ## 기술 스택
 
@@ -47,4 +47,5 @@ npm install
 npm run dev
 ```
 
-자세한 내용(환경변수, MySQL 스키마·시드 데이터, 전체 API 명세)은 [backend_fastapi_movie_recsys/README.md](./backend_fastapi_movie_recsys/README.md)를 참고하세요.
+자세한 내용(환경변수, MySQL 스키마·시드 데이터, 전체 API 명세)은 [backend_fastapi_movie_recsys/README.md](./backend_fastapi_movie_recsys/README.md)를,
+프론트엔드 화면 구성과 폴더 구조는 [frontend_react_movie_recsys/README.md](./frontend_react_movie_recsys/README.md)를 참고하세요.
